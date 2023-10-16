@@ -1,0 +1,10 @@
+# Objects
+*.o
+
+# Excecuteables
+*.out
+*.exe
+lisp
+
+# Build Folder
+build
