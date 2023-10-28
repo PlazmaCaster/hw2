@@ -9,7 +9,7 @@
                 "-g",
                 "${file}",
                 "-o",
-                "${fileDirname}\\${fileBasenameNoExtension}.exe"
+                "${workspaceFolder}\\builld\\${fileBasenameNoExtension}"
             ],
             "options": {
                 "cwd": "${fileDirname}"

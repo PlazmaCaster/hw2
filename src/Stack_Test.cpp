@@ -1,3 +1,8 @@
+/// @author: Gildardo (Quinn) Haro
+/// @NSHE: 5004465396
+/// @brief: Unit tests for the myStack template class, uses the catch2 test
+/// framework. myStack used in assignment 2.
+
 #include <cassert>
 #include <sstream>
 #include <string>

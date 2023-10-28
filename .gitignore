@@ -4,7 +4,4 @@
 # Excecuteables
 *.out
 *.exe
-lisp
-
-# Build Folder
-build
+hw2
